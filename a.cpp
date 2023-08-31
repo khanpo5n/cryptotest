@@ -1,5 +1,7 @@
-#include stdio.h
+#include iostream.h
+
+using namespace std;
 
 void main(){
-  printf("Hello world");
+  cout << "Hello world";
 }
