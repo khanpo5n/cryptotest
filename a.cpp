@@ -4,6 +4,6 @@ using namespace std;
 
 void main(){
   int a, b, c;
-  cin >> a >> b;
-  cout << a+b << endl;
+  cin >> a >> b >> c;
+  cout << a+b*c << endl;
 }
